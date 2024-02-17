@@ -1,0 +1,47 @@
+.info {
+  height: 37px;
+  width: 110px;
+}
+
+.info .text-wrapper {
+  color: #fed5de;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 43px;
+  letter-spacing: 1.6px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+
+.info.default {
+  border: 3px solid;
+  border-color: #ffffff;
+  position: relative;
+}
+
+.info.variant-2 {
+  background-color: #ffffff;
+}
+
+.info.default .INFO {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 1.6px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+
+.info.variant-2 .INFO {
+  border: 3px solid;
+  border-color: #ffffff;
+  height: 37px;
+  position: relative;
+}

@@ -1,0 +1,47 @@
+.component {
+  height: 37px;
+  width: 110px;
+}
+
+.component .div {
+  color: #fed5de;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 1.6px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+
+.component.property-1-0-default {
+  border: 3px solid;
+  border-color: #ffffff;
+  position: relative;
+}
+
+.component.property-1-0-variant-2 {
+  background-color: #ffffff;
+}
+
+.component.property-1-0-default .STORE {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 1.6px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+
+.component.property-1-0-variant-2 .STORE {
+  border: 3px solid;
+  border-color: #ffffff;
+  height: 37px;
+  position: relative;
+}

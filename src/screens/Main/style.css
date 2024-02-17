@@ -1,0 +1,278 @@
+.main {
+  background-color: #2e2e2e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.main .div-2 {
+  background-color: #2e2e2e;
+  height: 2832px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.main .overlap {
+  background-color: #ffffff;
+  height: 2571px;
+  left: -5px;
+  position: absolute;
+  top: 108px;
+  width: 1455px;
+}
+
+.main .overlap-group {
+  background-color: #fcdde3;
+  height: 565px;
+  left: 109px;
+  position: absolute;
+  top: 175px;
+  width: 1232px;
+}
+
+.main .heading {
+  height: 300px;
+  left: 359px;
+  position: absolute;
+  top: 29px;
+  width: 499px;
+}
+
+.main .overlap-group-2 {
+  height: 300px;
+  position: relative;
+  width: 497px;
+}
+
+.main .SXKURA-STORE {
+  color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 51.2px;
+  line-height: 150px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.main .span {
+  color: #ffffff;
+  letter-spacing: 32.77px;
+}
+
+.main .text-wrapper-2 {
+  color: #fcdde3;
+  letter-spacing: 32.77px;
+}
+
+.main .sakura-logo {
+  height: 62px !important;
+  left: 216px !important;
+  position: absolute !important;
+  top: 190px !important;
+  width: 65px !important;
+}
+
+.main .sleeping-cute {
+  height: 112px;
+  left: 640px;
+  object-fit: cover;
+  position: absolute;
+  top: 371px;
+  width: 111px;
+}
+
+.main .info-instance {
+  left: 654px !important;
+  position: absolute !important;
+  top: 483px !important;
+}
+
+.main .component-1 {
+  left: 465px !important;
+  position: absolute !important;
+  top: 483px !important;
+}
+
+.main .text-wrapper-3 {
+  color: #9a233f;
+  font-family: "Gill Sans MT-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 396px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1385px;
+  width: 200px;
+}
+
+.main .line {
+  height: 147px;
+  left: 725px;
+  position: absolute;
+  top: 981px;
+  width: 3px;
+}
+
+.main .picture {
+  height: 674px;
+  left: 1093px;
+  position: absolute;
+  top: 981px;
+  width: 352px;
+}
+
+.main .overlap-2 {
+  height: 833px;
+  left: -280px;
+  position: relative;
+  width: 634px;
+}
+
+.main .shape {
+  height: 674px;
+  left: 280px;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.main .overlap-group-3 {
+  height: 674px;
+  position: relative;
+  width: 352px;
+}
+
+.main .rectangle {
+  background-color: #fcdde3;
+  border-radius: 56px;
+  height: 674px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.main .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "GL-CurulMinamoto-Light", Helvetica;
+  font-size: 350px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 35px;
+  line-height: 0.1px;
+  position: absolute;
+  top: 455px;
+}
+
+.main .blossom {
+  height: 796px;
+  left: 0;
+  position: absolute;
+  top: 37px;
+  width: 632px;
+}
+
+.main .group {
+  height: 451px;
+  left: 185px;
+  position: absolute;
+  top: 1484px;
+  width: 623px;
+}
+
+.main .we-are-fijian-based {
+  color: #9a233f;
+  font-family: "Gill Sans-Medium", Helvetica;
+  font-size: 19px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: justify;
+  top: 0;
+  width: 621px;
+}
+
+.main .meet-the-team {
+  height: 279px;
+  left: 185px;
+  position: absolute;
+  top: 2038px;
+  width: 117px;
+}
+
+.main .giphy {
+  height: 117px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.main .img {
+  height: 95px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 184px;
+  width: 95px;
+}
+
+.main .rxkuu-xiao-main {
+  color: #9a233f;
+  font-family: "Gill Sans MT-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 312px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: justify;
+  top: 2066px;
+  width: 288px;
+}
+
+.main .natsumi-nahida-main {
+  color: #9a233f;
+  font-family: "Gill Sans MT-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 312px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: justify;
+  top: 2238px;
+  width: 282px;
+}
+
+.main .icon-arrow-up {
+  height: 42px !important;
+  left: 707px !important;
+  position: absolute !important;
+  top: 2416px !important;
+  width: 37px !important;
+}
+
+.main .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Gill Sans MT-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: justify;
+  top: 2743px;
+  white-space: nowrap;
+  width: 152px;
+}
